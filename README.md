@@ -7,7 +7,7 @@ This is a solution to the [Unit Converter Solo Project on Scrimba](https://scrim
 
 ### The challenge
 
-- Build the app from scratch following the provided design on Figma
+- Build the app from scratch following the provided design on [Figma](https://www.figma.com/file/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0%3A1&t=Nwv5BFjVGby0DIly-0)
 - Generate all conversions when the user clicks on "Convert"
 - Round the numbers down to three decimal places
 
