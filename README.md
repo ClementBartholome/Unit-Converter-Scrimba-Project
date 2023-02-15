@@ -1,21 +1,39 @@
-# cob2a4b88b3412bb3dbb39cae
+# Unit Converter - Scrimba Project
+This is a solution to the [Unit Converter Solo Project on Scrimba](https://scrimba.com/learn/learnjavascript/solo-project-unit-converter-cz9aPNSr). 
 
-Quick start:
+### Screenshot
 
-```
-$ npm install
-$ npm start
-````
+![](images/screen.png)
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+### The challenge
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- Build the app from scratch following the provided design on Figma
+- Generate all conversions when the user clicks on "Convert"
+- Round the numbers down to three decimal places
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+### Links
 
-Happy Coding!
+- Solution URL: https://clementbartholome.github.io/Unit-Converter-Scrimba-Project/
+- Scrimba "Learn JavaScript for free" course: https://scrimba.com/learn/learnjavascript
+
+### Built with
+
+- HTML
+- CSS
+- JavaScript
+
+### What I learned
+
+This project helped me improve my JavaScript skills. It made me practice template literals and DOM manipulation. I also learned how to round number according to chosen number of decimals using the tofixed() method. 
+
+### Useful resources
+
+- [Scrimba](https://scrimba.com/dashboard#overview) - The source of this project.
+- [freeCodeCamp](https://www.freecodecamp.org/learn/) - Another ressource I used to learn HTML, CSS, JS and more for free. 
+- [W3Schools](https://www.w3schools.com/howto/howto_css_animate_buttons.asp) - The source of the  onclick "ripple" effect I added on this project.
+
+
+## Author
+
+- LinkedIn - [Clément Bartholomé](https://www.linkedin.com/in/clementbartholome/)
+- Frontend Mentor - [@ClementBartholome](https://www.frontendmentor.io/profile/ClementBartholome)
